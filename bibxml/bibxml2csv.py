@@ -1,4 +1,4 @@
-#!/anaconda3/bin/python
+#!/usr/bin/env python
 import xml.etree.ElementTree as ET
 import csv 
 import sys
